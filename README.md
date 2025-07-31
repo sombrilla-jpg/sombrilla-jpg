@@ -13,7 +13,7 @@
   <li>⚓  <strong>Subiré:</strong> Mis avances principalmente en electrónica.</li>
   <li>♌  <strong>Estudiante de:</strong> Ingeniería de Sistemas.</li>
   <li>🤖  <strong>Objetivo:</strong> Especializarme en robótica e inteligencias artificiales.</li>
-  <li>:shipit:  <strong>CDiscord:</strong><code>1mSombra</code></li>
+  <li>:shipit:  <strong>Correo:</strong><code>juane.gomezh2000@gmail.com</code></li>
 </ul>
 
 ---
